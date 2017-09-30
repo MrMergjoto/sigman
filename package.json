@@ -1,0 +1,26 @@
+{
+  "name": "sigman",
+  "version": "0.0.1",
+  "description": "Sigman, short hand for sigma notation, is a newly created project for calculating a sigma summation notation formula.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMergjoto/sigman.git"
+  },
+  "keywords": [
+    "calculation",
+    "notation",
+    "sigma",
+    "sigman",
+    "summation"
+  ],
+  "author": "Rich W.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrMergjoto/sigman/issues"
+  },
+  "homepage": "https://github.com/MrMergjoto/sigman#readme"
+}
