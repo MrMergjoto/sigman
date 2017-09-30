@@ -1,7 +1,7 @@
 {
   "name": "sigman",
   "version": "0.0.2",
-  "description": "Sigman, short hand for sigma notation, is a newly created project for calculating a sigma summation notation formula.",
+  "description": "Sigman, short hand for sigma notation, is a newly created node.js project for calculating a sigma summation notation formula. ",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
