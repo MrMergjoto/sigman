@@ -4,7 +4,7 @@ var sigman = require('./../sigman');
 var fs = require('fs');
 var packagejson = require('./../package.json');
 
-describe('command line interface', function () {
+describe('basic summation', function () {
 
   it('1 to 5 sigma i', function () {
     let result = sigman(1, 5, "i");
